@@ -1,0 +1,17 @@
+#!/bin/bash
+
+printf "Running tests:\n\n"
+./scripts/lint
+lintResult=$?
+
+printf "Running Jest:\n\n"
+jest $1
+jestResult=$?
+
+printf "Running build:\n\n"
+./scripts/build
+buildResult=$?
+
+echo "Finished tests."
+
+! (( $lintResult | $jestResult | $buildResult ))

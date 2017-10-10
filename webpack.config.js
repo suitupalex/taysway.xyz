@@ -43,6 +43,7 @@ module.exports = {
         use: [
           'style-loader',
           'css-loader',
+          'postcss-loader',
           {
             loader: 'sass-loader',
             options: {
@@ -77,6 +78,7 @@ module.exports = {
       '.js',
       '.jsx',
       '.json',
+      '.scss',
     ],
   },
 }

@@ -1,0 +1,34 @@
+// sass-lint:disable no-important no-vendor-prefixes
+
+@keyframes scroll {
+  100% {
+    background-position: -1em -3em;
+  }
+}
+
+#app {
+  .letter {
+    cursor: pointer;
+
+    .character {
+      -webkit-background-clip: text !important;
+      -webkit-text-fill-color: transparent;
+      background-size: cover !important;
+      font-size: 20em;
+      font-weight: bolder;
+      line-height: 0.9em;
+      margin: 0.1em 0;
+      opacity: 0.5;
+      transition: opacity 0.75s, transform 0.75s;
+    }
+
+    &:hover {
+      .character {
+        animation: 10s scroll infinite linear;
+        opacity: 1;
+        transform: scale(0.5);
+        transition: opacity 0.2s, transform 0.2s;
+      }
+    }
+  }
+}

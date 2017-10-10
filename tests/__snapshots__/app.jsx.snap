@@ -1,7 +1,377 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`should check default app structure 1`] = `
-<div>
-  Casually cruel in the name of being honest...
+<div
+  className="ui container"
+>
+  <br />
+  <div
+    className="ui stackable relaxed three column grid"
+  >
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        A
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        B
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        C
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        D
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        E
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        F
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        G
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        H
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        I
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        J
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        K
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        L
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        M
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        N
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        O
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        P
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        Q
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        R
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        S
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        T
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        U
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        V
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        W
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        X
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        Y
+      </div>
+    </div>
+    <div
+      className="column letter"
+    >
+      <div
+        className="ui center aligned header character"
+        style={
+          Object {
+            "background": "url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/29/11/Taylor-Swift-revenge-nerds.jpg')",
+          }
+        }
+      >
+        Z
+      </div>
+    </div>
+  </div>
 </div>
 `;
